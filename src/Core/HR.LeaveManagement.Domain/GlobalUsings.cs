@@ -1,0 +1,1 @@
+global using HR.LeaveManagement.Domain.Common;
